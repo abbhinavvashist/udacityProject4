@@ -1,4 +1,4 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/abbhinavvashist/udacityProject4/tree/main.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/abbhinavvashist/udacityProject4/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/abbhinavvashist/udacityProject4/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/abbhinavvashist/udacityProject4/tree/main)
 
 1 - Test your project code using linting: make lint
 2 - Complete a Dockerfile to containerize this application: ./run_docker.sh
