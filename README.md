@@ -1,5 +1,6 @@
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/abbhinavvashist/udacityProject4/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/abbhinavvashist/udacityProject4/tree/main)
 
+
 •	Test your project code using linting: make lint 
 •	Complete a Dockerfile to containerize this application: ./run_docker.sh 
 •	Deploy your containerized application using Docker and make a prediction: ./make_prediction.sh 
